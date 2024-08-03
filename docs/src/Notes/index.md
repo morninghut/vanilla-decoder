@@ -3,19 +3,15 @@ layout: page
 sidebar: false
 
 hero:
-  title: "Document"
-  subTitle: "📚 欢迎来到本项目的使用说明书"
+  title: "Archieve"
+  subTitle: "博客归档"
 
 types:
-  - name: "使用指南"
-    desc: "How to Use"
-    link: "/Notes/0tutorial/quickstart"
-    icon: "✨"
-  - name: "面经分享"
-    desc: "interview experiences"
-    link: "/Notes/Interviews/"
-    icon: "🏃"
-# flow: true
+  - name: "论文阅读"
+    desc: "Paper Reading"
+    link: "/Notes/paper-reading/"
+    icon: " "
+flow: true
 ---
 
 <script setup>
