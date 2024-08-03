@@ -1,6 +1,6 @@
 Hut's blog, with reading and writing.
 
-Based on (easy-vitepress-blog)[https://github.com/ZbWeR/easy-vitepress-blog]
+Based on [easy-vitepress-blog](https://github.com/ZbWeR/easy-vitepress-blog)
 
 All the posts are under MIT license if not specified.
 
